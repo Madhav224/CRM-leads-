@@ -1,0 +1,56 @@
+<head>
+
+    <link rel="apple-touch-icon" href="<?php echo e(asset('app-assets/images/ico/apple-icon-120.png')); ?>">
+    <link rel="shortcut icon" type="image/x-icon" href="<?php echo e(asset('app-assets/images/ico/favicon.ico')); ?>">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;1,400;1,500;1,600" rel="stylesheet">
+
+    <!-- BEGIN: Vendor CSS -->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('css-files/apexcharts.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('css-files/toastr.min.css')); ?>">
+<!-- END: Vendor CSS-->
+
+<!-- BEGIN: Page CSS -->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('css-files/dashboard-ecommerce.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('css-files/chart-apex.css')); ?>">
+
+    <link rel="stylesheet" type="text/css" href="<?php echo e(asset('css-files/ext-component-toastr.css')); ?>">
+    <!-- END: Page CSS-->
+
+
+<!-- BEGIN: Vendor CSS -->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/vendors/css/vendors.min.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/vendors/css/tables/datatable/dataTables.bootstrap5.min.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/vendors/css/tables/datatable/responsive.bootstrap5.min.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/vendors/css/tables/datatable/buttons.bootstrap5.min.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/vendors/css/tables/datatable/rowGroup.bootstrap5.min.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/vendors/css/pickers/flatpickr/flatpickr.min.css')); ?>">
+<!-- END: Vendor CSS -->
+
+<!-- BEGIN: Theme CSS -->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/css/bootstrap.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/css/bootstrap-extended.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/css/colors.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/css/components.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/css/themes/dark-layout.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/css/themes/bordered-layout.css')); ?>">
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/css/themes/semi-dark-layout.css')); ?>">
+<!-- END: Theme CSS -->
+
+<!-- BEGIN: Page CSS -->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('app-assets/css/core/menu/menu-types/vertical-menu.css')); ?>">
+<!-- END: Page CSS -->
+
+<!-- BEGIN: Custom CSS -->
+<link rel="stylesheet" type="text/css" href="<?php echo e(asset('assets/css/style.css')); ?>">
+<!-- END: Custom CSS -->
+
+
+
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+
+
+
+
+
+
+</head> <?php /**PATH C:\xampp\htdocs\CRM-1\resources\views/css.blade.php ENDPATH**/ ?>
